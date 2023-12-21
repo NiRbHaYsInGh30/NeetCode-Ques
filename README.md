@@ -1,6 +1,6 @@
-  <head>
-  <title>LeetCode Data Structures and Algorithms Solutions</title>
-</head>
+ 
+  <h1>LeetCode Data Structures and Algorithms Solutions</h1>
+
 <body>
 
 <h1>LeetCode Data Structures and Algorithms Solutions</h1>
@@ -47,12 +47,11 @@ Problem-Name-1/
 │   README.md
 │   solution.py
 │   solution.java
-│   [additional files if needed]
+  
 Problem-Name-2/
 │   README.md
 │   solution.cpp
-│   [additional files if needed]
-[Add more directories for additional problems]
+
 </pre>
 
 <p>Each problem is represented by its name and contains the problem statement, solution files, and any additional resources or explanations if needed.</p>
