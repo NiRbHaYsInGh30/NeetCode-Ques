@@ -1,6 +1,3 @@
- 
-  <h1>LeetCode Data Structures and Algorithms Solutions</h1>
-
 <body>
 
 <h1>LeetCode Data Structures and Algorithms Solutions</h1>
