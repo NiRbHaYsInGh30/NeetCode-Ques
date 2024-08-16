@@ -4,8 +4,11 @@ const prompt=require("prompt-sync")();
 const getRandomInt = (min, max) =>{
     return Math.floor(Math.random() * (max - min)) + min;
 }
+
+
 const ROWS=3;
 const COL=3;
+
 
 
 const SYMBOLS_VALUE={
@@ -21,8 +24,6 @@ const SYMBOLS_COUNT = {
   "C": getRandomInt(0, 20),
   "D": getRandomInt(0, 20),
 };
-
-
 
 
 
@@ -105,12 +106,13 @@ const spin=()=>{
 
 
 
+
 let Balance=deposit();
 const LinesNumber=line();  
 const bet=betAmount(Balance,LinesNumber);  
 const lotterySpin = spin();
 
-const won=win(lotterySpin);
+// const won=win(lotterySpin);
 
 
 
